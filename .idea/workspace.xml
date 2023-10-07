@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941117a3-e955-4c7e-afcf-ed5ff6172f15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemsLeetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pb_1_TwoSum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pb_704_BinarySearch/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_116_PopulatingNextRightPointersInEachNode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_167_TwoSumIIInputArrayIsSorted/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_189_RotateArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_19_RemoveNthNodeFromEndOfList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_206_ReverseLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_21_MergeTwoSortedLists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_278_FirstBadVersion/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_283_MoveZeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_344_ReverseString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_35_SearchInsertPosition/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_3_LongestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_542_01MAtrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_557_ReverseWordsInAStringIII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_567_PermutationInAString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_617_MergeTwoBinaryTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_695_MaxAreaOfIsland/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_733_FloodFill/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_77_Combinations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_876_MiddleOfLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_977_SquaresOfASortedArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb_994_RottenOranges/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pb_1_TwoSum/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1669546908038</updated>
     </task>
+    <task id="LOCAL-00001" summary="add problem 1">
+      <created>1677596747542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677596747542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add problem 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 1" />
   </component>
 </project>
